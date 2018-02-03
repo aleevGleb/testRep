@@ -1,0 +1,41 @@
+<application>
+  <component name="libraryTable">
+    <library name="com.jcraft:jsch:0.1.54" type="repository">
+      <properties maven-id="com.jcraft:jsch:0.1.54" />
+      <CLASSES>
+        <root url="jar://$USER_HOME$/IdeaProjects/bruteforce/lib/jsch-0.1.54.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="httpcore-4.0.1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.0.2/httpclient-4.0.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jetty-server-9.3.0.M1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/IdeaProjects/example/lib/jetty-server-9.3.0.M1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jetty-servlets-9.3.0.M1">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-servlets/9.3.0.M1/jetty-servlets-9.3.0.M1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="servlet-api-2.5">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
